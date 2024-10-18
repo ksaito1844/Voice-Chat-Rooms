@@ -2,7 +2,7 @@ import './style.css'
 import AgoraRTC from "agora-rtc-sdk-ng"
 import AgoraRTM from "agora-rtm-sdk"
 
-import appid = '667cc6a5f2e34f03a853ed115'
+const appid = '667cc6a5f2e34f03a853ed115'
 
 
 const token = null
